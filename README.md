@@ -7,7 +7,7 @@ Select any of the 3 options as the original unit, another as the target, and the
 Tapping an empty area of the screen cycles the background through exactly 5 colors. Each tap advances to the next color and wraps back to the first after the fifth.
 
 ### Loom Video
-
+https://www.loom.com/share/1e6d79ca4607423cb1f4ad44496b45a9
 
 ### How to run it
 - Open 'unit_converter' folder on VS code
@@ -26,11 +26,14 @@ Readable contrast is based on background brightness using 'ThemeData.estimateBri
 
 ### Sample Inputs & Expected Outputs
 [ 1 gram ] -> [ 0.04 ounce]
+
 [ 1 pound ] -> [ 16 ounce ]
+
 [ 5 ounce ] -> [ 141.7 gram]
+
 [ 1 gram ] -> [ 1 gram ]
+
 [ -5 ounce ] -> Error
-[ Nothing ] -> [ 0 ]
 
 ### What is This?
 This program is a flutter based project made for CPSC 4150
